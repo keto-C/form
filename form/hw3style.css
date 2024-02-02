@@ -1,0 +1,81 @@
+body{
+    background-color:lavender;
+}
+.container{
+    height: 107vh;
+    width: 50vw;
+    display: flex;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    position:relative; 
+    left:335px;;
+}
+form{
+    height: 107vh;
+    width: 50vw;
+}
+label{
+    display: block;
+    position: relative;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0.55rem 0.7rem;
+    font-size: 17px;
+    bottom:3px;
+    border-color: lightgray;
+    margin-top: 7px;
+    width:82.5%;
+}
+.group{
+    position: relative;
+    left: 50px;
+}
+.checkyboxes{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4px;
+}
+.box1{
+    margin-right: 50px;
+    margin-left: 25px;
+}
+.box{
+    margin-right: 50px;
+}
+select{
+    width: 87%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0.45rem 0.6rem;
+    font-size: 17px;
+    margin-top: 7px;
+}
+input[type="range"]{
+    width: 87%;
+    height: 4px;
+    border-radius: 0%;
+}
+button{
+    display: block;
+    position: relative;
+    left: 50px;
+    background-color:dodgerblue;
+    width: 87%;
+    margin-top: 15px;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    border: none;
+    font-size: 23px;
+}
+button:hover{
+    background-color: midnightblue;
+}
