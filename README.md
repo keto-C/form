@@ -1,3 +1,5 @@
-To view the website, please kindly download the zip of the project.
+To view the website, please kindly follow the link below the description.
 
 Thank you.
+
+enjoy =)
