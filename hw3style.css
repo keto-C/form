@@ -78,4 +78,14 @@ button{
 }
 button:hover{
     background-color: midnightblue;
+    cursor: pointer;
+}
+
+#mal{
+    margin-right: 20px;
+}
+#fem,
+#oth{
+    margin-right: 20px;
+    margin-left: 15px;
 }
